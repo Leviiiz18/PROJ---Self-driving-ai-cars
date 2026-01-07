@@ -6,7 +6,7 @@ The goal is to train AI agents to learn how to race and improve their performanc
 The project uses neural networks that evolve over time based on fitness scores from the racing environment.
 
 ---
-![NEAT Racing Simulation](neat_racing_simulation.png)
+![NEAT Racing Simulation](1753259079487.jpg)
 
 ## Files in the Project
 
